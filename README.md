@@ -1,3 +1,2 @@
-# Express Boilerplate!
+# Blogful!
 
-Blogful!
